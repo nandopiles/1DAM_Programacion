@@ -1,0 +1,19 @@
+<?xml version="1.0">
+<carrera>
+	<participante>
+		<dorsal>1</dorsal>
+		<nombre>Juan</nombre>
+	</participante>
+	<participante>
+		<dorsal>2</dorsal>
+		<nombre>Pepe</nombre>
+	</participante>
+	<participante>
+		<dorsal>3</dorsal>
+		<nombre>Andrea</nombre>
+	</participante>
+	<participante>
+		<dorsal>4</dorsal>
+		<nombre>Maria</nombre>
+	</participante>
+</carrera>
